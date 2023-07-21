@@ -6,7 +6,7 @@ max-width: 1920px;
 
 .mynav{
     background-color: #239BD8;
-    height: 8rem ;
+    height: 6rem ;
     color: #FFF;
     padding-left: 3rem;
     padding-right: 3rem;
@@ -31,4 +31,20 @@ margin-left: 1rem ;
 }
 .srch{
     padding-left: 23rem;
+}
+.c-img{
+    width: 50rem ;
+    height: 40rem;
+}
+
+.line2{
+    width: 30rem ;
+    height: .1rem ;
+    background-color:#239BD8 ;
+}
+.blue{
+    color: #239BD8;
+}
+.ma{
+    margin-top: -3rem;
 }
