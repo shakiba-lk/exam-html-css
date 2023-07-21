@@ -38,7 +38,7 @@ margin-left: 1rem ;
 }
 
 .line2{
-    width: 30rem ;
+    width: 35rem ;
     height: .1rem ;
     background-color:#239BD8 ;
 }
@@ -47,4 +47,20 @@ margin-left: 1rem ;
 }
 .ma{
     margin-top: -3rem;
+}
+.coco{ color: #434343;}
+
+
+.tt{
+    color:#1E9781;
+    font-size: 3rem;
+}
+.card{
+    border-radius: 1rem;
+    width: 40rem;
+}
+
+.gr{
+    color:  #7C8DB0;
+    font-size:2rem ;
 }
