@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&display=swap');
+
+.container{
+max-width: 1920px;
+}
+
+.mynav{
+    background-color: #239BD8;
+    height: 8rem ;
+    color: #FFF;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.p-s{
+    color: #FFF;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+margin-left: 1rem ;
+}
+
+.line{
+    width: 25rem;
+    height: .1rem ;
+    background-color: #FFF;
+
+}
+.c-m{
+    width:4rem ;
+    height: 4rem;
+}
+.srch{
+    padding-left: 23rem;
+}
